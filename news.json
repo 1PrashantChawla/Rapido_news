@@ -1,0 +1,269 @@
+// 20220624151730
+// https://newsapi.org/v2/top-headlines?country=us&apiKey=9f170b8121184687808e13ed04e5b416
+
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Pressure mounts on UK PM Johnson after crushing election defeats - Reuters UK",
+        "description": "Boris Johnson's Conservatives lost two parliamentary seats on Friday, a crushing blow to the governing party that prompted the resignation of the party's chairman and intensified doubts about the future of Britain's prime minister.",
+        "url": "https://www.reuters.com/world/uk/uk-liberal-democrats-claim-victory-against-johnsons-conservatives-parliamentary-2022-06-24/",
+        "urlToImage": "https://www.reuters.com/resizer/SCL8TstS1gw7Jf_tZqtoTH3qFE0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AOXBY4UCP5MMNH2P2RTJNZ5MNI.jpg",
+        "publishedAt": "2022-06-24T07:57:00Z",
+        "content": "LONDON, June 24 (Reuters) - Boris Johnson's Conservatives lost two parliamentary seats on Friday, a crushing blow to the governing party that prompted the resignation of the party's chairman and inte… [+5060 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Charmaine Jacob",
+        "title": "World's most livable cities: Vienna climbs back to its No. 1 spot. These are the biggest decliners - CNBC",
+        "description": "Vienna has overtaken Auckland as the world's most livable city, according to a report by the Economist Intelligence Unit.",
+        "url": "https://www.cnbc.com/2022/06/24/vienna-overtakes-auckland-as-the-worlds-most-livable-city.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107080148-1656040729465-gettyimages-158534837-9aaa708e-3dc5-42a8-b316-7271b47a46ea.jpeg?v=1656045346&w=1920&h=1080",
+        "publishedAt": "2022-06-24T06:43:15Z",
+        "content": "Vienna ranked first in 2018 and 2019, but was overtaken by Auckland, New Zealand, during the pandemic and slipped to 12th place in 2021, according to the Global Liveability Index 2022.\r\nAfter two yea… [+3974 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Melissa Quinn",
+        "title": "Supreme Court strikes down New York gun law, expanding concealed carry rights - CBS News",
+        "description": "The dispute involves a century-old law from New York that limits who can carry a concealed handgun in public.",
+        "url": "https://www.cbsnews.com/news/supreme-court-new-york-gun-law-second-amendment/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/06/02/4ec8d343-abbd-43d0-9899-1a40432810f8/thumbnail/1200x630g3/56cdc2f0790a3a321010103a3bc2c966/gettyimages-1351091185.jpg",
+        "publishedAt": "2022-06-24T06:20:00Z",
+        "content": "Washington — The Supreme Court on Thursday struck down a New York law that placed strict restrictions on carrying concealed firearms in public for self defense, finding its requirement that applicant… [+7645 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Weilun Soon",
+        "title": "2 people died after a Nio electric car they were test driving fell 3 floors in Shanghai, company says - Yahoo Finance",
+        "description": "Founded in 2014, Nio markets itself as a premium car brand focused on autonomous cars. It's often seen as a rival to Tesla.",
+        "url": "https://businessinsider.com/2-killed-car-tesla-rival-nio-fell-three-floors-shanghai-2022-6",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/iDxT5Y1rPGe6yp_9Q3BFRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/uu/api/res/1.2/yV0puys2k_lNPwcSbElL_w--~B/aD0xMzE4O3c9MTc1ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business_insider_articles_888/372ccc3ee61c7fdcc317d40bf49f1d64",
+        "publishedAt": "2022-06-24T06:17:31Z",
+        "content": "A person views one of Nio's self-driving electric cars in Germany.NOK\r\n<ul><li>Two people died after a Nio electric car they were test driving fell three floors, per Nio's statement.\r\n</li><li>The co… [+2439 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Michael Kranish, Rosalind S. Helderman",
+        "title": "Trump's Justice Dept. officials reveal details of plot to topple department - The Washington Post",
+        "description": "With raw emotion, former Justice Department officials described to the Jan. 6 committee how close the department came to catastrophe.",
+        "url": "https://www.washingtonpost.com/national-security/2022/06/23/jan6-doj-clark-rosen-donoghue-testimony/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EA7G4YHTFUI6ZLAWR67XDFGNPA.jpg&w=1440",
+        "publishedAt": "2022-06-24T05:27:00Z",
+        "content": "Placeholder while article actions load\r\nRichard Donoghue, President Donald Trumps acting deputy attorney general, picked up the phone at home in December 2020 to hear the president of the United Stat… [+12228 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "Michael Kaskey-Blomain",
+        "title": "2022 NBA Draft results, takeaways: Magic trick experts by taking Paolo Banchero at No. 1, setting off chaos - CBS Sports",
+        "description": "The 2022 NBA Draft is in the books, and it was an interesting one",
+        "url": "https://www.cbssports.com/nba/news/2022-nba-draft-results-takeaways-magic-trick-experts-by-taking-paolo-banchero-at-no-1-setting-off-chaos/live/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/06/24/1e46faf4-9384-4bfb-9eb6-acb5c90054ba/thumbnail/1200x675/de3e95e6a25b0933772d389dce10693a/banchero-getty.jpg",
+        "publishedAt": "2022-06-24T05:26:21Z",
+        "content": "There usually aren't too many surprises in the NBA Draft in this day and age, but Thursday night started out with a major one as the Orlando Magic selected Duke forward Paolo Banchero with the No. 1 … [+9759 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Variety"
+        },
+        "author": "Zack Sharf",
+        "title": "‘Thor: Love and Thunder’ First Reactions Praise Marvel Film as a ‘Vivid and Vibrant Blast’ - Variety",
+        "description": "First reactions have poured in for Taika Waititi’s highly-anticipated “Thor: Love and Thunder,” which had its world premiere June 23 in Hollywood. Expectations for the latest Marvel Cinematic Universe entry are sky high considering Waititi’s last comic book o…",
+        "url": "https://variety.com/2022/film/news/thor-love-and-thunder-first-reactions-1235301719/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-23-at-12.50.56-PM.png?w=1024",
+        "publishedAt": "2022-06-24T04:46:00Z",
+        "content": "First reactions have poured in for Taika Waititi’s highly-anticipated “Thor: Love and Thunder,” which had its world premiere June 23 in Hollywood. Expectations for the latest Marvel Cinematic Univers… [+4651 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Billboard"
+        },
+        "author": "Katie Atkinson",
+        "title": "Charlie Puth’s ‘Left and Right’ With BTS’ Jungkook Has Arrived: Listen Now - Billboard",
+        "description": "“Memories follow me left and right/ I can feel you over here/ I can feel you over here/ You take up every corner of my mind.”",
+        "url": "https://www.billboard.com/music/music-news/charlie-puth-jungkook-left-and-right-stream-bts-1235105516/",
+        "urlToImage": "https://www.billboard.com/wp-content/uploads/2022/06/charlie-puth-jungkook-left-right-2022-billboard-1548.png?w=1024",
+        "publishedAt": "2022-06-24T04:07:17Z",
+        "content": "Not even two weeks after BTS announced they were taking some time to focus on solo projects, Jungkook has set out on his own to team up with Charlie Puth for the upbeat new single “Left and Right,” w… [+1386 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Clare Foran, Ali Zaslav, Lauren Fox, Ted Barrett",
+        "title": "Senate passes first major federal gun safety legislation in decades - CNN",
+        "description": "The Senate on Thursday night passed a bipartisan bill to address gun violence that amounts to the first major federal gun safety legislation in decades.",
+        "url": "https://www.cnn.com/2022/06/23/politics/senate-bipartisan-gun-bill/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220623201229-01-senate-gun-bill-0623.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2022-06-24T04:05:00Z",
+        "content": "The Senate on Thursday night passed a bipartisan bill to address gun violence that amounts to the first major federal gun safety legislation in decades. \r\nThe final vote was 65 to 33 with 15 Republic… [+7464 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Investing.com"
+        },
+        "author": "Reuters",
+        "title": "Stocks up as commodity slide offers a salve for inflation fears By Reuters - Investing.com",
+        "description": "Stocks up as commodity slide offers a salve for inflation fears",
+        "url": "https://www.investing.com/news/stock-market-news/stocks-up-as-commodity-slide-offers-a-salve-for-inflation-fears-2840451",
+        "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_L.jpg",
+        "publishedAt": "2022-06-24T04:00:00Z",
+        "content": "By Tom Westbrook\r\nSINGAPORE (Reuters) - Stocks and bonds were both headed for their first weekly gain in a month on Friday as investors wagered on central banks bringing inflation to heel, though gro… [+2943 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "PEOPLE"
+        },
+        "author": "Jack Irvin",
+        "title": "Taylor Swift Releases Haunting New Song 'Carolina' from Where the Crawdads Sing - PEOPLE",
+        "description": "Swift previewed the Aaron Dessner-produced ballad in the trailer for <em>Where the Crawdads Sing</em> in March",
+        "url": "https://people.com/music/taylor-swift-releases-new-song-carolina-from-where-the-crawdads-sing/",
+        "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=148%2C19%2C1348%2C619&poi=face&w=1500&h=750&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F12%2F02%2Ftaylor-swift-1.jpg",
+        "publishedAt": "2022-06-24T04:00:00Z",
+        "content": "The wait is finally over for Taylor Swift's latest single!\r\nOn Friday, Swift released a haunting ballad titled \"Carolina\" from the upcoming film Where the Crawdads Sing — three months after previewin… [+2933 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Silver Screen and Roll "
+        },
+        "author": "Nicole Ganglani",
+        "title": "NBA Draft: Lakers select Max Christie with the No. 35 pick - Silver Screen and Roll ",
+        "description": "After sending a future second rounder and cash to the Magic for the 35th overall selection, the Lakers used that pick on Michigan State freshman guard Max Christie.",
+        "url": "https://www.silverscreenandroll.com/2022/6/23/23180868/lakers-2022-nba-draft-max-christie-michigan-state-trade-orlando-magic-second-round-pick",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/UWUNmXoqzaaKDvCXWQuQdUrfXOI=/0x471:5033x3106/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23648645/1240729364.jpg",
+        "publishedAt": "2022-06-24T03:42:20Z",
+        "content": "With the No. 35 pick in the 2022 NBA Draft, the LA Lakers selected Max Christie, having acquired the pick earlier in the day when they sent out a future second-rounder and cash to the Magic.\r\nChristi… [+858 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Times"
+        },
+        "author": "Vimal Patel",
+        "title": "Pelosi’s Husband Charged With D.U.I. in California Car Crash - The New York Times",
+        "description": "A blood sample taken from Paul Pelosi, 82, more than two hours after the crash had a .082 percent blood alcohol content, the office said.",
+        "url": "https://www.nytimes.com/2022/06/23/us/paul-pelosi-dui-charged.html",
+        "urlToImage": "https://static01.nyt.com/images/2022/06/23/multimedia/23xp-pelosi/23xp-pelosi-facebookJumbo.jpg",
+        "publishedAt": "2022-06-24T02:11:34Z",
+        "content": "Under California law, these charges can be filed as a misdemeanor or felony, Allison Haley, the county district attorney, said in a statement. Based upon the extent of the injuries suffered by the vi… [+777 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Jesse O’Neill",
+        "title": "20 million lives saved by COVID-19 vaccines in first year: report - New York Post ",
+        "description": "In the year after the vaccine was first introduced in December 2020, more than 4.3 billion people received an inoculation, saving 20 million lives, according to research published Thursday.",
+        "url": "https://nypost.com/2022/06/23/covid-vaccine-saved-20-million-lives-in-first-year-report/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/06/AP22173743214693.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2022-06-24T02:09:00Z",
+        "content": "The coronavirus pandemic could have been much worse without vaccines, according to a new study that claims the number of deaths recorded worldwide from the coronavirus would be more than triple than … [+2694 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Times"
+        },
+        "author": "Sharon Otterman",
+        "title": "A Monkeypox Vaccine Is Available for At-Risk New Yorkers - The New York Times",
+        "description": "Demand for the vaccine was high as the city began offering the vaccine at one Chelsea clinic, where a long line formed and people were turned away.",
+        "url": "https://www.nytimes.com/2022/06/23/nyregion/monkeypox-vaccine-new-york.html",
+        "urlToImage": "https://static01.nyt.com/images/2022/06/24/nyregion/24ny-monkeypox/24ny-monkeypox-facebookJumbo.jpg",
+        "publishedAt": "2022-06-24T01:45:48Z",
+        "content": "There is a great desire, he said, to get at least one dose of the two-dose vaccine before this weekend, which will provide at least some protection against spread, even among people not planning to h… [+2801 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fox Business"
+        },
+        "author": "Paul Best",
+        "title": "Biden administration canceling $6 billion in student loan debt for 200,000 borrowers - Fox Business",
+        "description": "About 200,000 people will have roughly $6 billion worth of student loan debt canceled under a deal reached by the Biden administration this week.",
+        "url": "https://www.foxbusiness.com/politics/biden-administration-canceling-6-billion-student-loan-debt",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/05/0/0/biden-student-loan-debt.jpg?ve=1&tl=1",
+        "publishedAt": "2022-06-24T01:38:57Z",
+        "content": "The Biden administration reached a deal this week to cancel $6 billion in federal student loan debt for about 200,000 borrowers who attended mostly for-profit colleges. \r\nThe agreement covers more th… [+2097 chars]"
+      },
+      {
+        "source": {
+          "id": "independent",
+          "name": "Independent"
+        },
+        "author": "Andrew Feinberg",
+        "title": "Matt Gaetz, Mo Brooks and Louie Gohmert among lawmakers who asked for pardons from Trump, Jan 6 hearing told - The Independent",
+        "description": "Bombshell revelation comes during fifth public congressional hearing into the events surrounding the Capitol riot",
+        "url": "https://www.independent.co.uk/news/world/americas/us-politics/jan-6-hearing-trump-pardon-matt-gaetz-b2108429.html",
+        "urlToImage": "https://static.independent.co.uk/2021/12/22/15/GettyImages-1236025767.jpg?quality=75&width=1200&auto=webp",
+        "publishedAt": "2022-06-24T01:12:02Z",
+        "content": "Representatives Mo Brooks, Matt Gaetz, Andy Biggs, Louie Gohmert and Scott Perry were among the Republican members of Congress who asked President Donald Trump to insulate them from future prosecutio… [+7797 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "CDC investigating ‘large, ongoing’ outbreak of meningococcal disease in Florida - The Hill",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2hlYWx0aGNhcmUvMzUzNTA4NS1jZGMtaW52ZXN0aWdhdGluZy1sYXJnZS1vbmdvaW5nLW91dGJyZWFrLW9mLW1lbmluZ29jb2NjYWwtZGlzZWFzZS1pbi1mbG9yaWRhL9IBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2022-06-24T00:16:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Samantha Murphy Kelly, CNN Business",
+        "title": "Amazon Alexa will be able to mimic deceased loved ones' voices - CNN",
+        "description": "The latest iteration of Amazon's Alexa voice assistant could sound eerily familiar.",
+        "url": "https://www.cnn.com/2022/06/23/tech/amazon-alexa-mimic-voice/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220623161552-alexa-amazon-echo-device-file-restricted-super-tease.jpg",
+        "publishedAt": "2022-06-23T23:54:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Megan Marples and Ashley Strickland, CNN",
+        "title": "Here's how to watch the peak of a rare, 5-planet alignment this weekend - CNN",
+        "description": "Mercury, Venus, Mars, Jupiter and Saturn will align in the sky and shine especially bright during its peak on June 24.",
+        "url": "https://www.cnn.com/2022/06/23/world/five-planet-alignment-peak-june-scn/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220623194434-02-five-planet-alignment-peak-june-scn-super-tease.jpg",
+        "publishedAt": "2022-06-23T23:48:00Z",
+        "content": "(CNN)A rare, five-planet alignment will peak on June 24, allowing a spectacular viewing of Mercury, Venus, Mars, Jupiter and Saturn as they line up in planetary order.\r\nThe event began at the beginni… [+4211 chars]"
+      }
+    ]
+  }
