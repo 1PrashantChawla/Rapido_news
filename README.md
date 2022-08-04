@@ -1,5 +1,5 @@
-#Sample Video
-https://user-images.githubusercontent.com/98182593/182774891-88b4ceed-650e-4681-9237-fa0af3831014.mp4
+#Sample Output
+![newsAppGif](https://user-images.githubusercontent.com/98182593/182778215-864cb32f-24db-46c9-baaa-f6e6c52fab3b.gif)
 
 #Sample images
 ![](images/sample1.jpeg)
