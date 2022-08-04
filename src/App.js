@@ -11,7 +11,7 @@ import {
   Route,
 } from "react-router-dom";
 
-console.log(process.env.REACT_APP_API);
+
 
 export default class App extends Component {
   country="in";
